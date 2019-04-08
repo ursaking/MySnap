@@ -1,0 +1,30 @@
+@media screen and (min-width: 1000px) {
+  .icon_user {
+    margin-left: 65%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+  .icon_user {
+    margin-left: 35%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .icon_user {
+    margin-left: 10%;
+  }
+  .logo {
+    width: 40%;
+    height: 40%;
+  }
+}
+@media screen and (max-width: 640px) {
+  .icon_user {
+    margin-left: 30%;
+  }
+  .logo {
+    height: 42%;
+    width: 42%;
+  }
+}
